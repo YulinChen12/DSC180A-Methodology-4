@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Your Name
+# Yulin Chen
 yuc093@ucsd.edu
 
 **Section & Mentor:** B26 — Ali Arsanjani
